@@ -5,3 +5,4 @@ This is a simple Rust project to demonstrate how to go one step further for some
 ## TODO
 - [ ] Brief introduction to Rust
 - [ ] Data structures & common algs in Rust
+- [ ] Using Rust to rebuild some wheels like HTTP&RPC or Machine Learning framework
