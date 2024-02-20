@@ -11,3 +11,6 @@ This is a simple Rust project to demonstrate how to go one step further for some
 ## Reference
 - [《 Rust in Action 》]()
 - [ Burn ](https://github.com/tracel-ai/burn)
+
+## License
+MIT License
